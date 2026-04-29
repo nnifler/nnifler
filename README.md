@@ -1,1 +1,1 @@
-![](https://raw.githubusercontent.com/LordFrostwolf/LordFrostwolf/main/earth.png)
+![](https://raw.githubusercontent.com/nnifler/nnifler/main/earth.png)
